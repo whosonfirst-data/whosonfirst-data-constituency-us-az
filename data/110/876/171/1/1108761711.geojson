@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 16",
     "uscensus:sldust":"016",
     "uscensus:statefp":"04",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688719
+    ],
     "wof:breaches":[],
+    "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485997,
     "wof:geomhash":"5d1d22e0db4de61cb81ffdfc136ec3e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688719
+        }
+    ],
     "wof:id":1108761711,
     "wof:lastmodified":1481485997,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688719,
     "wof:repo":"whosonfirst-data-constituency-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],

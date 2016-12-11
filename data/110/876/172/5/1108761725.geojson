@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 22",
     "uscensus:sldust":"022",
     "uscensus:statefp":"04",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688719
+    ],
     "wof:breaches":[],
+    "wof:constituency":"region",
     "wof:country":"us",
     "wof:created":1481485999,
     "wof:geomhash":"5db3f408e0933735bc4623ab8e737333",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688719
+        }
+    ],
     "wof:id":1108761725,
     "wof:lastmodified":1481485999,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688719,
     "wof:repo":"whosonfirst-data-constituency-us-az",
     "wof:superseded_by":[],
     "wof:supersedes":[],
